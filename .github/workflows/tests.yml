@@ -3,7 +3,7 @@ description: Käynnistää yksikkö- ja end-to-end testit mergellä
 on:
   push:
     branches:
-      - testi
+      - main
   pull_request:
     branches:
       - main
