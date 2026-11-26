@@ -1,5 +1,6 @@
 name: Tests
 description: Käynnistää yksikkö- ja end-to-end testit mergellä
+description: testataan uudestaan mergeä
 on:
   push:
     branches:
